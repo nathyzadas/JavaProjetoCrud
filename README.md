@@ -2,25 +2,25 @@
 <div align="center">📚 Repositório para as aulas de Java no SENAC, focado no desenvolvimento de um projeto CRUD utilizando Eclipse, XAMPP e Java Web.</div>
 📌 Objetivos:
 
-<ul>
+
 Aprender os fundamentos da programação em Java;
 
- <ul>
+
 Explorar o desenvolvimento de um sistema CRUD (Create, Read, Update, Delete);
 
-   <ul>
+
 Utilizar o ambiente de desenvolvimento Eclipse para escrever e depurar código Java;
 
-     <ul>
+
 Integrar o XAMPP para criar um servidor web local e utilizar um banco de dados MySQL;
 
-       <ul>
+ 
 Aplicar conceitos de desenvolvimento Java Web, como servlets e JSP.
 
-         <ul>
+      
 🎯 Recursos e Conteúdo:
 
-           <ul>
+        
 Pastas organizadas para cada aula, contendo arquivos-fonte e exemplos de código;
 Instruções e orientações detalhadas em um arquivo README.md para cada aula.
 Esse repositório visa proporcionar aos alunos do SENAC uma experiência prática de aprendizado em Java. Durante o curso, você irá construir um sistema CRUD funcional, capaz de realizar operações de criação, leitura, atualização e exclusão de registros em um banco de dados.
